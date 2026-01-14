@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Skills
+## 🧠 Tech Skills
 - 🐍 **Python** 
 - 🗄️ **SQL**  
 - 📊 **Power BI**  
