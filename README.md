@@ -18,6 +18,6 @@
 ---
 
 ## 📂 Portfólio
-Projetos desenvolvidos durante meus estudos e formação em Dados:
+Projetos desenvolvidos durante minha formação em Dados:
 🔗 **[Portfólio de Projetos em Dados](https://github.com/JosiVictor/portfolio)**
 
